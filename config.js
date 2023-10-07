@@ -4,7 +4,7 @@ ownerID: ["557130457016303626"], //write your discord user id. example: ["id"] o
 botInvite: "https://discord.com/oauth2/authorize?client_id=1118830088734113793&permissions=8&scope=bot%20applications.commands", //write your discord bot invite.
 supportServer: "https://discord.gg/YFaypzab", //write your discord bot support server invite.
 mongodbURL: "", //write your mongodb url.
-status: 'commands',
+status: 'VCT23',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
 embedColor: "ffa954", //hex color code
